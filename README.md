@@ -1,6 +1,5 @@
                                GAMING EVENT AND PLAYER RANKING PORTAL
 **OVERVIEW** :
-
      "Gaming Event & Player Ranking Portal" is a dynamic platform designed to manage competitive gaming events efficiently.It enables player registration, event organization, match tracking,
 and real-time performance analysis.The system features automated ranking, detailed player statistics, and game-based event management.This project enhances competitive gaming experiences by 
 providing structured leaderboards and seamless event coordination.
